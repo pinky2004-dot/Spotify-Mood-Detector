@@ -46,9 +46,9 @@
 
 ## Authors
 
-(UPDATE IN README.md) List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
+*This project was completed in collaboration with:*
 
-*EXAMPLE: This project was completed in collaboration with:*
-
-- John Doe (john.doe@example.com)
-- Jane Smith (jane.smith@example.com)
+- Sai Donepudi (SaiDonepudi@my.unt.edu)
+- Mateo Lauzardo (mlauz005@fiu.edu)
+- Marcia Baker (mpastio@wgu.edu)
+- Debora
