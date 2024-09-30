@@ -30,19 +30,16 @@
 
 ## Data Sources
 
-(UPDATE IN README.md) Include any relevant data sources that were used in your project.
-
-*EXAMPLE: Kaggle Datasets: Link to Kaggle Dataset*
+Kaggle Dataset: [Top 50 Spotify 2019](https://www.kaggle.com/datasets/leonardopena/top50spotify2019/data)
 
 ## Technologies Used
 
-(UPDATE IN README.md) List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-
 - Python
 - pandas
-- OpenAI API
+- numpy
+- Google Colaboratory
+- sklearn
+- matplot
 
 ## Authors
 
